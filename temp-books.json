@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Way of the Wolf",
+        "author": "Jordan Belfort",
+        "image": "https://books.google.com/books/content/images/frontcover/5jYvDwAAQBAJ?fife=w200-h300"},
+    {
+        "name": "The Beautiful Poetry of Donald Trump",
+        "author": "Robert Sears",
+        "image": "https://books.google.com/books/content/images/frontcover/68CnDwAAQBAJ?fife=w200-h300"
+    },
+    {
+        "name": "The Lord of the Rings: The Fellowship of the Ring, The Two Towers, The Return of the King",
+        "author": "J. R. R. Tolkien",
+        "image": "https://books.google.com/books/content/images/frontcover/FKziXsnqLTEC?fife=w200-h300"
+    }
+]
